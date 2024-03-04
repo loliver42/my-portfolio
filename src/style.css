@@ -80,23 +80,23 @@ p {
     padding: 0;
     text-align: center;
   }
-  .about-hero {
+  .container-hero {
     text-align: center;
     padding: 0;
   }
 }
-.about-hero {
+.container-hero {
   padding: 160px 20px;
 }
 
-.about-hero h1 {
+.container-hero h1 {
   font-size: 64px;
   line-height: 80px;
 }
-.about-hero h2 {
+.container-hero h2 {
   font-size: 18px;
   font-family: var(--default-font-family);
 }
-.about-content {
+.content {
   margin: 30px;
 }
