@@ -138,3 +138,13 @@ p {
 .content p {
   font-size: 14px;
 }
+.email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+}
+.email-link:hover {
+  color: var(--secondary-color);
+}
